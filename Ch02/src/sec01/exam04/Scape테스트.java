@@ -1,6 +1,6 @@
 package sec01.exam04;
 
-public class ScapeTest {
+public class Scape테스트 {
 
 	public static void main(String[] args) {
 		int a = 10;
