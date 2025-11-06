@@ -16,7 +16,7 @@ public class Dragon extends Enemy {
 	void Attack(Player player) {
 		Random rand = new Random();
 		int val = rand.nextInt(100);
-		
+	
 		if(val < 50) {
 			System.out.println("Dragon Win!!");
 			Damage(player);

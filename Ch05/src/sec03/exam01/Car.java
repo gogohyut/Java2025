@@ -35,11 +35,8 @@ public class Car {
 		System.out.println("company:" + company);
 		System.out.println("model:" + model);
 		System.out.println("Max Speed:" + maxSpeed);
- }
-	
-	
-	
+	}
 }
 
-#numberOfStudent -> 변수
-#NumberOfStudent -> class
+//#numberOfStudent -> 변수
+//#NumberOfStudent -> class

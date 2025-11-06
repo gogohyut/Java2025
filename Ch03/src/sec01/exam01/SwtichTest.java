@@ -1,10 +1,9 @@
 package sec01.exam01;
 
 public class SwtichTest {
-     
-	
-	public static void main(String[] args) {
-        String val = "Mon";
+
+public static void main(String[] args) {
+		String val = "Mon";
         
        
        switch(val) {

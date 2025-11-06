@@ -1,6 +1,6 @@
 package car.racing;
 
-public class Tire {
+public abstract class Tire {
 	int capacity;
 	int consume;
 	
@@ -13,8 +13,9 @@ public class Tire {
 		capacity -= consume;
 	}
 	
-	boolean IsAbailable() {
-		return capacity - consume > 0;
-		
-	}
+//	boolean IsAbailable() {
+//		return capacity - consume > 0;
+//  }	
+	abstract boolean IsAbailable();	
+
 }
