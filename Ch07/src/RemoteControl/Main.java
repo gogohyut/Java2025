@@ -9,6 +9,5 @@ public class Main {
 		
 		MyClass m3 = new MyClass();
 		m3.MethodB(new Audio());
-	}
-
+	}	
 }
