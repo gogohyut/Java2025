@@ -3,4 +3,5 @@
     <fullyQualifiedTypeName name="sec01.exam01.Calcul"/>
     <fullyQualifiedTypeName name="sec01.exam01.Car"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="exam03.Button.OnClickListener"/>
 </qualifiedTypeNameHistroy>
