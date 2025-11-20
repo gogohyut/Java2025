@@ -1,5 +1,5 @@
 package exam04;
 
-public class Dog extends Aniaml{
+public class Dog extends Animal{
 
 }
